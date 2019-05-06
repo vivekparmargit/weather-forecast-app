@@ -64,7 +64,7 @@ class Weather extends React.Component {
                             </li>
                             <li>
                             <strong>Temperature: </strong>
-                            <span>{name.main.temp} F</span>
+                            <span>{name.main.temp} K</span>
                             </li>
                             <li>
                             <strong>Clouds: </strong>
